@@ -1,3 +1,3 @@
 # tempo-stopper
 
-A stopwatch app built with React
+⏱️ A stopwatch app built with React
