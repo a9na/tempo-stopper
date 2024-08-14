@@ -1,11 +1,11 @@
 import React from 'react';
-import MyComponent from './MyComponent.jsx';
+import Stopwatch from './Stopwatch.jsx';
 
 
 function App() {
   
 
-  return(<MyComponent/> 
+  return(<Stopwatch /> 
   );
 
 }
